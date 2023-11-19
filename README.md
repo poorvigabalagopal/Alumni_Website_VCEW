@@ -4,8 +4,11 @@
 Key Features:
 
 Interactive Profiles: Members can create and personalize their profiles, highlighting their achievements, career milestones, and experiences.
+
 Event Updates: Stay in the loop with upcoming events, reunions, and professional development opportunities.
+
 Networking Opportunities: Foster connections with fellow alumni through a user-friendly networking interface.
+
 News and Achievements: Celebrate the success stories of our alumni community, keeping everyone informed and inspired.
 
 Gratitude:
